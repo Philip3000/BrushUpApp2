@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrushUpApp2", "BrushUpApp2.csproj", "{99D9DBE5-AF18-4D4F-A27D-7ADF63BA28C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrushUpApp2Tests1", "..\BrushUpApp2Tests1\BrushUpApp2Tests1.csproj", "{BC0FE167-7EFA-49DE-A1F4-0A5F29D4F7F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D9DBE5-AF18-4D4F-A27D-7ADF63BA28C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D9DBE5-AF18-4D4F-A27D-7ADF63BA28C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D9DBE5-AF18-4D4F-A27D-7ADF63BA28C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D9DBE5-AF18-4D4F-A27D-7ADF63BA28C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0FE167-7EFA-49DE-A1F4-0A5F29D4F7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0FE167-7EFA-49DE-A1F4-0A5F29D4F7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0FE167-7EFA-49DE-A1F4-0A5F29D4F7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0FE167-7EFA-49DE-A1F4-0A5F29D4F7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B1282C-8768-49C1-85BE-447FF59477EA}
+	EndGlobalSection
+EndGlobal
